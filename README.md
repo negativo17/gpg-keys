@@ -4,6 +4,15 @@ This repository contains the GPG keys used to sign all packages available for th
 
 Here is a list of all the keys starting from the newest.
 
+## 2024-09-01 (current)
+
+```
+sub   rsa4096 2024-09-01 [SC] [expires: 2029-08-31]
+      0C5D0F470484AE2FC40A9B6597F3008993E8909B
+uid                      Simone Caronni (negativo17.org) <negativo17@gmail.com>
+sub   rsa4096 2024-09-01 [E] [expires: 2029-08-31]
+```
+
 ## 2023-03-09
 
 ```
