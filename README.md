@@ -1,6 +1,6 @@
 # Package GPG keys
 
-This repository contains the GPG keys used to sign all packages available for the negativo17 repositories.
+This repository contains the GPG keys used to sign all packages available for the [negativo17](https://negativo17.org) repositories.
 
 Here is a list of all the keys starting from the newest.
 
